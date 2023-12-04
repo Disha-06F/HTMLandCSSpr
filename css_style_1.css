@@ -1,8 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+}
 #heading1{
     color:red;
     background-color: antiquewhite;
+    margin:100px;
+    padding:10px;
 }
 .heading2{
-    color:black;
-    background-color: aliceblue;
+   margin-left:30px;
+   margin-right:10px;
+   padding:20px;
+   background-color: aquamarine;
+
 }
