@@ -16,3 +16,7 @@
     width:100px;
     background-color: lemonchiffon;
 }
+.Display{
+    display:flex;
+    /* display:none; */
+}
