@@ -1,0 +1,14 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+
+.bgimage{
+    background-image: url('./image/324407089_2159036924487364_1192608316872335215_n.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat;
+    height: 200px;;
+    width: 200px;
+
+}
