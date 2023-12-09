@@ -19,6 +19,7 @@
 .Display{
     display:flex;
     /* display:none; */
-    /* flex-direction: row-reverse; */
-    flex-direction: column-reverse;
+    flex-direction: row-reverse;
+    /* flex-direction: column-reverse; */
+    justify-content: center;
 }
