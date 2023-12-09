@@ -1,0 +1,18 @@
+.box1{
+    border:5px solid goldenrod;
+    height:100px;
+    width:100px;
+    background-color: aqua;
+}
+.box2{
+    border:5px solid goldenrod;
+    height:100px;
+    width:100px;
+    background-color:burlywood;
+}
+.box3{
+    border:5px solid goldenrod;
+    height:100px;
+    width:100px;
+    background-color: lemonchiffon;
+}
