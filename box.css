@@ -22,5 +22,6 @@
     /* flex-direction: row-reverse; */
     /* flex-direction: column-reverse; */
     /* justify-content: center; */
-    justify-content: space-between;
+    /* justify-content: space-between; */
+    justify-content: flex-end;
 }
