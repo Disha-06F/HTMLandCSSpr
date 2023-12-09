@@ -18,3 +18,10 @@
     margin-left:10px;
     border-radius:100px;
 }
+.uiImage img:hover{
+    width: 200px;
+    height: 200px;
+    margin-left:10px;
+    border-radius:10px;
+    border:5px solid gold;
+}
