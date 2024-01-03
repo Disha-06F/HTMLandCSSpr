@@ -28,12 +28,12 @@
     /* justify-content: space-around; */
     justify-content:space-evenly;
 }
-@media screen and (max-width:576px){
+ /* /* @media screen and (max-width:576px){
     body{
          background-color: red;      /*resposive css*/
-    }
-}
-@media screen and (min-width:577px) and (max-width:768){
+    /* }
+} */
+/* @media screen and (min-width:577px) and (max-width:768){
     body{
         background-color:blueviolet;
     }
@@ -42,4 +42,14 @@
     body{
         background-color: bisque;
     }
+} */   
+@media screen and (min-width:577px) and (max-width:768){
+    .Display{
+        display :block;
+    }
 }
+@media screen and (min-width:769px){
+    .Display{
+        display :inline;
+    }
+}  
