@@ -33,3 +33,13 @@
          background-color: red;      /*resposive css*/
     }
 }
+@media screen and (min-width:577px) and (max-width:768){
+    body{
+        background-color:blueviolet;
+    }
+}
+@media screen and (min-width:769px){
+    body{
+        background-color: bisque;
+    }
+}
